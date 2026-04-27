@@ -1,3 +1,1 @@
-<div align="center">
-<img src=""/>
-</div>
+# SkiteDB - The new moderne local storage data
