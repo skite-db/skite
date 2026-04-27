@@ -1,0 +1,3 @@
+[submodule "tools/skc"]
+	path = tools/skc
+	url = https://github.com/skite-db/skc.git
